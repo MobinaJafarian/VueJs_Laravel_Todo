@@ -33,7 +33,8 @@ Laravel and Vue Js Todo SPA
 
 
 ## Screenshots
-![Register Page screenshot](./public/images/screenshots/Screenshot%20%20Register.png)
+![Todo Page screenshot](./public/images/screenshots/Screenshot%20to-do.png)
+![Todo Page screenshot](./public/images/screenshots/Screenshot%202023-03-10%20at%2023-23-23%20Laravel%20to-do.png)
 
 
 
